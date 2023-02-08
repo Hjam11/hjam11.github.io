@@ -2,6 +2,7 @@
 title: "Projects"
 permalink: /projects/
 author_profile: true
+collection: projects 
 ---
 
 {% include base_path %}
