@@ -14,26 +14,41 @@ Education
 * B.A. in Environmental Earth Science, University of California: Berkeley, 2020
 * Ph.D in Low Temperature Geochemistry, Cornell University, 2027 (expected)
 
+Research Interests
+======
+* Isotopic Geochemistry 
+* Isotopic Fractionation
+* Stable Isotope Hydrology 
+
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2021 - July 2022: Laboratory and Field Technician, Eel River Critical Zone Observatory
+  * Served as primary manager of field sampling, sample storage and data organization for the Eel River CZO on multiple long-term research projects, including: collection of tree cores/twigs and water samples from the vadose zone and groundwater for dD and d18O isotopic analysis; collection of samples for carbon stable isotopes, cations, anions, organic acid, pH and alkalinity, total carbon, total nitrogen and inorganic nitrogen
+  * Analyzed isotopic data for hydrogen and oxygen stable isotopes with R. Reported progress on sample collection and processing on a weekly basis to the lead PI, and distributed data among a team of 5 other PIs and 4 graduate students regularly.
+  * Ordered field and laboratory supplies, contacted suppliers to fix/troubleshoot equipment errors and worked with project members to catalog each sample collected as a part of the Eel River CZO program from 2015-2021
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2018 - January 2021: Student Research Assistant, Eel River Critical Zone Observatory
+  * Assisted the field technician at for the Eel River CZO.
+  * Collected tree cores/twigs for cryogenic extractions.
+  * Extracted water from samples using the cryogenic extraction method and prepped water samples for infrared mass spec analysis at the Center for Stable Isotope Biogeochemistry at UC Berkeley.
+  * Managed and regularly entered data into project database.
+  * Distributed data among 5 PIs and 4 graduate students and presented updates on field work and lab work to project members during monthly meetings and annual retreats.
+  * Analyzed isotopic data in R.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient in using R to manage datasets and make plots relevant to ongoing projects
+  * ggplot2
+  * dplyr
+  * lubridate
+
+* Confident in troubleshooting and solving equipment errors in field and laboratory settings
+
+* Experienced in planning multi-day field campaigns to collect various types of samples for environmental monitoring and biogeochemical research
+
+* Able to incorporate new fieldwork tasks efficiently to maintain consistent data collection
+
+* Understanding on how to use micropipettes, systems under vacuum, liquid nitrogen, cryogenic extractions for IRMS analysis, and acid baths to clean equipment for the field.
 
 Publications
 ======
@@ -53,6 +68,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Memberships / Affiliations
 ======
-* Currently signed in to 43 different slack teams
+* American Geophysical Union: 2021
