@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hunter Jamison / dH_jam"
+title                    : "dH_jam"
 title_separator          : "-"
 name                     : &name "Hunter Jamison"
 description              : &description "personal description"
