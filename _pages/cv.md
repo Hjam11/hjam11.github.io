@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Environmental Earth Science, University of California: Berkeley, 2020
+* Ph.D in Low Temperature Geochemistry, Cornell University, 2027 (expected)
 
 Work experience
 ======
