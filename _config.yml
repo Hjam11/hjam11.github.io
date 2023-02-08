@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hunter Jamison"
-  avatar           : "/Users/htj5/Desktop/Web/hjam.github.io/files/FC7FCD5F-2941-4FD9-8462-47AF915B0E53_1_105_c.jpeg"
+  avatar           : "images/profile.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Cornell University"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/Hjam11"
+  twitter          : "Hjam11"
   vine             :
   weibo            :
   xing             :
