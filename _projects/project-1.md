@@ -1,5 +1,6 @@
 ---
 title: "Isotopic Composition of the Finger Lakes: How are they changing over time?"
+layout: single-portfolio 
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: projects
 ---
