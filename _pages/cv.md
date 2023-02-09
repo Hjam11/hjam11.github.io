@@ -62,12 +62,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Memberships / Affiliations
 ======
 * American Geophysical Union: 2021
+
+#Teaching
+#======
+  #<ul>{% for post in site.teaching %}
+    #{% include archive-single-cv.html %}
+  #{% endfor %}</ul>
