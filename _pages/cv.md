@@ -17,7 +17,7 @@ Education
 Research Interests
 ======
 * Isotopic Geochemistry 
-* Isotopic Fractionation
+* River Solute Fluxes
 * Stable Isotope Hydrology 
 
 Work experience
