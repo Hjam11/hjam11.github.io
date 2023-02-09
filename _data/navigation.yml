@@ -14,7 +14,8 @@ main:
 
  - title: "CV"
     url: /cv/
-  #- title: "Teaching"
+
+  - #title: "Teaching"
     #url: /teaching/  
 
   - #title: "Guide"
