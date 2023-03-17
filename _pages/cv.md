@@ -34,6 +34,17 @@ Work experience
   * Managed and regularly entered data into project database.
   * Distributed data among 5 PIs and 4 graduate students and presented updates on field work and lab work to project members during monthly meetings and annual retreats.
   * Analyzed isotopic data in R.
+
+Teaching
+======
+* TA for EAS 3030 'Intro to Biogeochemistry' : Fall, 2022
+  * Ran disccusion sections and review sessions for midterms
+  * Graded homeworks, midterms, and finals
+  * Held multiple office hours each week to help students with material
+  * Gave lecture on Oxygen and Hydrogen Stable Isotopes
+* TA for EAS 2250 'The Earth System' : Spring, 2023
+  * Held and graded lab sections 
+  * Had office hours for students 
   
 Skills
 ======
