@@ -12,4 +12,4 @@ Hello! I'm a PhD student in geological sciences at Cornell University. I study l
 
 I'll update more later, but feel free to take a look around!
 ---
-<br/><img src='/images/otisco_kayak.JPG'>
+[BESS Symposium](/files/BESS_Symposium.pdf)
