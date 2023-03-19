@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Here is a copy of my most recent [CV] (/files/HJ_CV_03172023.pdf).
+
 Education
 ======
 * B.A. in Environmental Earth Science, University of California: Berkeley, 2020
