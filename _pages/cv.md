@@ -38,7 +38,7 @@ Work experience
 Teaching
 ======
 * TA for EAS 3030 'Intro to Biogeochemistry' : Fall, 2022
-  * Ran disccusion sections and review sessions for midterms
+  * Ran discussion sections and review sessions for midterms
   * Graded homeworks, midterms, and finals
   * Held multiple office hours each week to help students with material
   * Gave lecture on Oxygen and Hydrogen Stable Isotopes
