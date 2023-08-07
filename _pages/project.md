@@ -37,10 +37,10 @@ In order to disentangle how climate change is affecting these lakes, it is impor
   
   * Are there trends in isotopic enrichment/depletion that carry beyond multiple years? How do these trends culminate in what is observed with the lakes?
   
-  * How do fluxes of chemical species into the lakes (like Al, K, PO<sub>4</sub><sup>3-</sup>, Na, NO<sub>3</sub><sup>-</sup>, etc.) change in response to precipitation types throughout seasons? What can we expect to observe as the region sees more rain in the future?
+  * How do fluxes of chemical species into the lakes (Al, K, PO<sub>4</sub><sup>3-</sup>, Na, NO<sub>3</sub><sup>-</sup>, etc.) change in response to precipitation types throughout seasons? What can we expect to observe as the region sees more rain in the future?
 
 
-To tackle these challenges, I have been...
+To tackle these challenges, I have been:
 
    1) Using hysplit to back calculate the trajectories of storms that land in Ithaca and then cross compare these tracks with their isotopic composition. 
    
