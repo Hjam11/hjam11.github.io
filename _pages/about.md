@@ -15,12 +15,12 @@ If you're interested in my current projects/focus, please check out my projects 
 
 <figure>
 <img src='/images/otisco_kayak.JPG'>
-<figcaption align = "center"> <b>Otisco Lake: October, 2022</b>
+<figcaption align = "center"><b>Otisco Lake: October, 2022</b>
 </figcaption>
 </figure>
 
 <figure>
 <img src='/images/Canadice_1_3260.JPG'>
-<figcaption align = "center"> <b>Two of my labs interns paddling out to collect a sample from Canadice Lake: August, 2023</b>
+<figcaption align = "center"><b>Two of my labs interns paddling out to collect a sample from Canadice Lake: August, 2023</b>
 </figcaption>
 </figure>
