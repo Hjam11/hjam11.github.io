@@ -39,6 +39,12 @@ In order to disentangle how climate change is affecting these lakes, it is impor
   
   * How do fluxes of chemical species into the lakes (Al, K, PO<sub>4</sub><sup>3-</sup>, Na, NO<sub>3</sub><sup>-</sup>, etc.) change in response to precipitation types throughout seasons? What can we expect to observe as the region sees more rain in the future?
 
+<figure>
+<img src='/images/O2.gif'>
+<figcaption align = "center"> <b>Saturated oxygen in Cascadilla Creek plotted against temperature during October, 2022</b>
+</figcaption>
+</figure>
+
 
 To tackle these challenges, I have been:
   * Using hysplit to back calculate the trajectories of storms that land in Ithaca and then cross compare these tracks with their isotopic composition. 
