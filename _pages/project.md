@@ -41,12 +41,11 @@ In order to disentangle how climate change is affecting these lakes, it is impor
 
 
 To tackle these challenges, I have been:
-
-  1) Using hysplit to back calculate the trajectories of storms that land in Ithaca and then cross compare these tracks with their isotopic composition. 
-   
-  2) Collecting daily samples of a nearby stream to see how sensitive it is to seasonal changes. 
-   
-  3) Collecting samples of all 11 Finger Lakes twice per year, once in the summer and once in the winter. 
+  * Using hysplit to back calculate the trajectories of storms that land in Ithaca and then cross compare these tracks with their isotopic composition. 
+  
+  * Collecting daily samples of a nearby stream to see how sensitive it is to seasonal changes.
+  
+  * Collecting samples of all 11 Finger Lakes twice per year, once in the summer and once in the winter. 
 
 
 {% include base_path %}
