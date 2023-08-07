@@ -15,8 +15,8 @@ If you're interested in my current projects/focus, please check out my projects 
 
 <figure>
 <img src='/images/otisco_kayak.JPG'>
-<caption align = "center"><b>Otisco Lake: October, 2022</b>
-</caption>
+<figcaption align = "center"><b>Otisco Lake: October, 2022</b>
+</figcaption>
 </figure>
 
 <figure>
