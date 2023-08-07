@@ -15,7 +15,7 @@ My main focus on these lakes is tied to understanding how climatic shifts are ch
 
 <figure>
 <img src='/images/DJF_Rain_Per.pdf'>
-<figcaption align = "center"> <b>A triangular irregular network (TIN) extrapolation of the winter season rainfall across the Finger Lakes region. Color code represents the percent difference of the '91-'20 climate norms versus the '81-'10 climate norms</b>
+<figcaption align = "middle">A triangular irregular network (TIN) extrapolation of the winter season rainfall across the Finger Lakes region. Color code represents the percent difference of the '91-'20 climate norms versus the '81-'10 climate norms
 </figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ In order to disentangle how climate change is affecting these lakes, it is impor
 
 <figure>
 <img src='/images/DJF_SNOW_per.pdf'>
-<figcaption align = "center"> <b>A triangular irregular network (TIN) extrapolation of the winter season snowfall across the Finger Lakes region. Color code represents the percent difference of the '91-'20 climate norms versus the '81-'10 climate norms</b>
+<figcaption align = "middle">A triangular irregular network (TIN) extrapolation of the winter season snowfall across the Finger Lakes region. Color code represents the percent difference of the '91-'20 climate norms versus the '81-'10 climate norms
 </figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ In order to disentangle how climate change is affecting these lakes, it is impor
 
 <figure>
 <img src='/images/O2.mov'>
-<figcaption align = "center"> <b>Saturated oxygen in Cascadilla Creek plotted against temperature during October, 2022</b>
+<figcaption align = "middle">Saturated oxygen in Cascadilla Creek plotted against temperature during October, 2022
 </figcaption>
 </figure>
 
