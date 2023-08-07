@@ -14,6 +14,7 @@ Hydrologically, these lakes are defined by their short residence times, with mos
 My main focus on these lakes is tied to understanding how climatic shifts are changing these lakes in the long term. For example, these lakes have experienced an increased amount of harmful algal blooms (HABs) since 2014. While it is believed that the HABs are arising from an increased amount of rainfall over the region, I want to better understand how else we can observe climatic signals in the lakes and their tributaries. 
 
 <br/><img src='/images/DJF_Rain_Per.pdf'>
+
 *A triangular irregular network (TIN) extrapolation of the winter season rainfall across the Finger Lakes region. Color code represents the percent difference of the '91-'20 climate norms versus the '81-'10 climate norms*
 
 In order to disentangle how climate change is affecting these lakes, it is important to focus on a few different key aspects.
@@ -24,6 +25,7 @@ In order to disentangle how climate change is affecting these lakes, it is impor
   * Where do the storms that fall into the lakes originate? Do they stem mostly from the Atlantic Ocean, Gulf of Mexico, or do the Great Lakes contribute a significant amount moisture? How do the origin of these storms affect the chemical behavior of the lakes on short/long time scales?
 
 <br/><img src='/images/DJF_SNOW_per.pdf'> 
+
 *A triangular irregular network (TIN) extrapolation of the winter season snowfall across the Finger Lakes region. Color code represents the percent difference of the '91-'20 climate norms versus the '81-'10 climate norms*
 
 1) Tributaries
@@ -36,10 +38,11 @@ In order to disentangle how climate change is affecting these lakes, it is impor
 
 To tackle these challenges, I have been...
 
-1) Using hysplit to back calculate the trajectories of storms that land in Ithaca and then cross compare these tracks with their isotopic composition. 
-2) Collecting daily samples of a nearby stream to see how sensitive it is to seasonal changes. 
-   1) I also collect samples from the stream for cations, anions, and silica to better understand how the structure of the bedrock influences the stream in the long term. 
-3) Collecting samples of all 11 Finger Lakes twice per year, once in the summer and once in the winter. 
+   1) Using hysplit to back calculate the trajectories of storms that land in Ithaca and then cross compare these tracks with their isotopic composition. 
+   
+   2) Collecting daily samples of a nearby stream to see how sensitive it is to seasonal changes. 
+      1) I also collect samples from the stream for cations, anions, and silica to better understand how the structure of the bedrock influences the stream in the long term. 
+   3) Collecting samples of all 11 Finger Lakes twice per year, once in the summer and once in the winter. 
 
 
 {% include base_path %}
