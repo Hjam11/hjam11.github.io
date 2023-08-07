@@ -77,6 +77,6 @@ Talks
   
 Memberships / Affiliations
 ======
-* American Geophysical Union: 2021
+* American Geophysical Union: 2021, 2023 - Present
 * Snee Graduate Organization: 2023 (Vice President/Treasurer)
-* Biogeochemistry, Environmental Sciences and Sustainability (BESS) Graduate Student Association: 2023
+* Biogeochemistry, Environmental Sciences and Sustainability (BESS) Graduate Student Association: 2023 - Present
