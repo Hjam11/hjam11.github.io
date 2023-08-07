@@ -32,7 +32,7 @@ In order to disentangle how climate change is affecting these lakes, it is impor
 </figcaption>
 </figure>
 
-1) Tributaries
+2) Tributaries
   * How do the rivers and gorges that feed the lakes respond to incoming precipitation, and how sensitive to changes are they on weekly, seasonal, and yearly scales?
   
   * Are there trends in isotopic enrichment/depletion that carry beyond multiple years? How do these trends culminate in what is observed with the lakes?
