@@ -41,7 +41,6 @@ To tackle these challenges, I have been...
    1) Using hysplit to back calculate the trajectories of storms that land in Ithaca and then cross compare these tracks with their isotopic composition. 
    
    2) Collecting daily samples of a nearby stream to see how sensitive it is to seasonal changes. 
-      
       1) I also collect samples from the stream for cations, anions, and silica to better understand how the structure of the bedrock influences the stream in the long term. 
    
    3) Collecting samples of all 11 Finger Lakes twice per year, once in the summer and once in the winter. 
