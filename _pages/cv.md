@@ -47,21 +47,21 @@ Teaching
 * TA for EAS 2250 'The Earth System' : Spring, 2023
   * Held and graded lab sections 
   * Had office hours for students 
-  
-Skills
+* TA for EAS 1600 ‘Environmental Physics’: Fall, 2023 
+  * Had office hours for students
+  * Attended lectures to facilitate in class quizzes/activities 
+
+Course Work
 ======
-* Proficient in using R to manage datasets and make plots relevant to ongoing projects
-  * ggplot2
-  * dplyr
-  * lubridate
-
-* Confident in troubleshooting and solving equipment errors in field and laboratory settings
-
-* Experienced in planning multi-day field campaigns to collect various types of samples for environmental monitoring and biogeochemical research
-
-* Able to incorporate new fieldwork tasks efficiently to maintain consistent data collection
-
-* Understanding on how to use micropipettes, systems under vacuum, liquid nitrogen, cryogenic extractions for IRMS analysis, and acid baths to clean equipment for the field.
+* Soil Chemistry (Cornell, on going)
+*	Isotope Geochemistry (Cornell, Berkeley)
+*	Geochemistry (Berkeley)
+*	Eco-Hydrology (Cornell)
+*	History and Evolution of Planet Earth (Berkeley)
+*	Physical Landscapes: Processes and Form (Berkeley)
+*	General & Organic Chemistry (Berkeley)
+*	Multivariate Calculus (Berkeley)
+*	Physics for Engineers (Berkeley)
 
 Publications
 ======
