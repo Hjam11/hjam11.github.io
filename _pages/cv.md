@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a copy of my most recent [CV](/files/HJ_CV_03172023.pdf).
+Here is a copy of my most recent [CV](/files/HJ_CV_08282023.pdf).
 
 Education
 ======
