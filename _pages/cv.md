@@ -21,6 +21,7 @@ Research Interests
 * Isotopic Geochemistry 
 * River Solute Fluxes
 * Stable Isotope Hydrology 
+* Groundwater Age Dating
 
 Work experience
 ======
