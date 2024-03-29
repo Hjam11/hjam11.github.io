@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: "Finger Lakes"
 permalink: /projects/FingerLakesClimate
 author_profile: true
 ---
