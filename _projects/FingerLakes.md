@@ -1,8 +1,7 @@
 ---
-layout: archive
 title: "Finger Lakes"
 permalink: /projects/FingerLakesClimate
-author_profile: true
+
 ---
 
 ## The Finger Lakes 
@@ -53,10 +52,3 @@ To tackle these challenges, I have been:
   
   * Collecting samples of all 11 Finger Lakes twice per year, once in the summer and once in the winter. 
 
-
-{% include base_path %}
-
-
-{% for post in site.project %}
-  {% include archive-single.html %}
-{% endfor %}
