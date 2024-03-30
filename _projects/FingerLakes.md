@@ -1,7 +1,7 @@
 ---
 title: "Finger Lakes"
 permalink: /projects/FingerLakesClimate
-
+collection: projects
 ---
 
 ## The Finger Lakes 
