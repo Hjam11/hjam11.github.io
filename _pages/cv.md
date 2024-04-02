@@ -54,7 +54,7 @@ Teaching
 
 Course Work
 ======
-* Soil Chemistry (Cornell, on going)
+* Soil Chemistry (Cornell)
 *	Isotope Geochemistry (Cornell, Berkeley)
 *	Geochemistry (Berkeley)
 *	Eco-Hydrology (Cornell)
@@ -79,5 +79,6 @@ Talks
 Memberships / Affiliations
 ======
 * American Geophysical Union: 2021, 2023 - Present
-* Snee Graduate Organization: 2023 (Vice President/Treasurer)
+* Snee Graduate Organization: 2023 - Present 
+  * Vice President/Treasurer - 2023
 * Biogeochemistry, Environmental Sciences and Sustainability (BESS) Graduate Student Association: 2023 - Present
