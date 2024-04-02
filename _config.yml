@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "dH_jam"
+title                    : "Hunter Jamison"
 title_separator          : "-"
 name                     : &name "Hunter Jamison"
-description              : &description "I'm a low temperature geochemist that focuses on the hydrogen and oxygen isotope composition of the Finger Lakes region of NY!"
+description              : &description "I'm a low temperature geochemist that focuses on Critical Zone processes!"
 url                      : https://hjam11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hjam11/hjam11.github.io"
