@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a PhD student in geological sciences at Cornell University. I study low temperature geochemistry, but I'm more of a isotope eco-hydrologist. My current project is focused on disentangling climate signals across the Finger Lakes in central New York, but soon I'll begin working on building a transit time distribution model for a watershed in northern California! 
+Hello! I'm a 2nd year PhD student in geological sciences at Cornell University. I study low temperature geochemistry, with a particular focus on the use of isotopes as tracers for silicate weathering, and hydraulic responses to evolving precipitation regimes! 
 
-If you're interested in my current projects/focus, please check out my projects tab!
+Currently I'm between 2 projects:
+1. Detecting hydraulic responses to increased rainfall and decreased snowfall across the Finger Lakes watershed in Central New York
+2. Using silicate weathering tracers to elucidate the link between groundwater residence times and reaction rates in the subsurface within a montane catchement in the Central Sierra Nevada
+
+If you're interested in learning more, please check out my projects tab!
 ---
 
 <figure>
