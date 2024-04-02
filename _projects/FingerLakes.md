@@ -1,5 +1,5 @@
 ---
-title: "Finger Lakes Response to Changing Precipitation Regimes"
+title: "1. Finger Lakes Response to Changing Precipitation Regimes"
 permalink: /projects/FingerLakesClimate
 collection: projects
 excerpt: 'The Northeastern United States has broadly been seeing a decrease in snowfall, with an increase in rainfall since about the 1980s. The Finger Lakes, which hold water for relatively short time periods, are uniquely positioned to show how this change in preciptiation regimes affect not just water quality, but also how sensitive Central New York is to a ever evolving hydraulic regime. My work here focuses on how we can detect these changes using chemical and physical analyses.'
