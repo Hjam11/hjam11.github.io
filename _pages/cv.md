@@ -23,10 +23,33 @@ Research Interests
 * Stable Isotope Hydrology 
 * Groundwater Age Dating
 
+Field Experience
+======
+* Western Australia (Jan 2024)
+  * Collected acidic brines from a series of ephemeral lakes in Western Australia
+  * Lead groundwater sampling of boreholes for geochemical analysis
+  * Used multi-parameter probe to record in-situ chemistry of lake/groundwater at point of collection
+
+* Sagehen Creek, CA, USA (July-August 2024, June-July 2023)
+  * Collected stream and spring samples across Sagehen Creek watershed for geochemical analysis
+  * Sample collection focused during snowmelt season (April-August)
+  * Used multi-parameter probe to record in-situ chemistry of streams/springs at point of collection
+
+* Finger Lakes, Central NY, USA (2022-2024)
+  * Collected surface water samples of the 11 Finger Lakes across Central New York in summer and winter conditions
+  * Collected stream samples of Cascadilla Creek at Cornell University at daily to weekly scales
+  * Analysis focused on geochemical parameterization of surface waters and stream in order to constrain seasonal variability and response to different precipitation types
+
+* Eel River Critical Zone Observatory, CA, USA (2018-2022)
+  * Collected groundwater, stream, and vadose zone water samples for geochemical analysis
+  * Recorded CO<sub>2</sub> and O<sub>2</sub> gas concentrations across vadose zone
+  * Collected xylem samples of various tree species for δ<sup>18</sup>O and δ<sup>2</sup>H analyses
+  * Recorded neutron density measurements of boreholes with a neutron probe to record moisture profiles
+
 Work experience
 ======
 * January 2021 - July 2022: Laboratory and Field Technician, Eel River Critical Zone Observatory
-  * Served as primary manager of field sampling, sample storage and data organization for the Eel River CZO on multiple long-term research projects, including: collection of tree cores/twigs and water samples from the vadose zone and groundwater for dD and d18O isotopic analysis; collection of samples for carbon stable isotopes, cations, anions, organic acid, pH and alkalinity, total carbon, total nitrogen and inorganic nitrogen
+  * Served as primary manager of field sampling, sample storage and data organization for the Eel River CZO on multiple long-term research projects, including: collection of tree cores/twigs and water samples from the vadose zone and groundwater for δ<sup>2</sup>H and δ<sup>18</sup>O isotopic analysis; collection of samples for carbon stable isotopes, cations, anions, organic acid, pH and alkalinity, total carbon, total nitrogen and inorganic nitrogen
   * Analyzed isotopic data for hydrogen and oxygen stable isotopes with R. Reported progress on sample collection and processing on a weekly basis to the lead PI, and distributed data among a team of 5 other PIs and 4 graduate students regularly.
   * Ordered field and laboratory supplies, contacted suppliers to fix/troubleshoot equipment errors and worked with project members to catalog each sample collected as a part of the Eel River CZO program from 2015-2021
 
