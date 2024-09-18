@@ -105,3 +105,7 @@ Memberships / Affiliations
 * Snee Graduate Organization: 2023 - Present 
   * Vice President/Treasurer - 2023
 * Biogeochemistry, Environmental Sciences and Sustainability (BESS) Graduate Student Association: 2023 - Present
+
+Awards / Recognitions
+======
+* Brian Isacks Excellence in Graduate Student Teaching Award - 2024, Earth and Atmospheric Sciences Department at Cornell University 

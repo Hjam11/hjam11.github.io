@@ -51,5 +51,4 @@ To tackle these challenges, I have been:
   
   * Collecting daily samples of a nearby stream to see how sensitive it is to seasonal changes.
   
-  * Collecting samples of all 11 Finger Lakes twice per year, once in the summer and once in the winter. 
-
+  * Collecting samples of all 11 Finger Lakes twice per year, once in the summer and once in the winter.
