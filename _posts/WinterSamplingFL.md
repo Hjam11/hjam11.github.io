@@ -1,7 +1,7 @@
 ---
 title: 'Winter Sampling of the Finger Lakes'
 date: 2023-03-17
-permalink: /posts/2023/03/blog-post-1/
+permalink: /year-archive/2023/03/blog-post-1/
 tags:
   - Finger Lakes
   - Hydrology
