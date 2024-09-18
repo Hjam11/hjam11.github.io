@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a 2nd year PhD student in geological sciences at Cornell University. I study low temperature geochemistry, with a particular focus on the use of isotopes as tracers for silicate weathering, and hydraulic responses to evolving precipitation regimes! 
+Hello! I'm a 3rd year PhD student in geological sciences at Cornell University. I study low temperature geochemistry, with a particular focus on the use of isotopes as tracers for silicate weathering, and hydraulic responses to evolving precipitation regimes! 
 
 Currently I'm between 2 projects:
 1. Detecting hydraulic responses to increased rainfall and decreased snowfall across the Finger Lakes watershed in Central New York
