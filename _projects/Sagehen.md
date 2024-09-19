@@ -27,6 +27,12 @@ What are *geochemical tracers*? Simply put, they are tools used to track the wea
 
 While these tracers are useful to get an idea of both flow paths and the breakdown of rocks overtime, they do not show sensitivity to how long it takes for the rock/minerals to break down, or even how long the water has to be in contact with the rock to reach observed concentrations. 
 
+<figure>
+<img src='/images/RxnClocks.png'>
+<figcaption align = "middle"> This figure shows a concenptual overview of groundwater paths, and the time scales of water-rock interactions needed to reach equilibrium. This concept is known as a 'reaction clock', of which weathering tracers are useful in revealing
+</figcaption>
+</figure>
+
 Thankfully, there are a set of tracers that are time sensitive and can provide insight to the breakdown of bedrock and the formation of new rocks (clays). These tracers are silicon isotopes (reffered to as $\delta$<sup>30</sup>Si), and germanium/silicon ratios. Silicon has 3 stable isotopes (or forms), <sup>28</sup>Si, <sup>29</sup>Si, and <sup>30</sup>Si. When bedrock weathers, it releases these forms of Si that were stuck into the rock into the water. If the $\delta$<sup>30</sup>Si of the water looked exactly like that of the rock, then we know the water had time to reach equlibrium with the rock. However, $\delta$<sup>30</sup>Si is also sensitive to the formation of new rocks. If new clay is forming, it takes up a lot more <sup>28</sup>Si than the heavier <sup>29</sup>Si or <sup>30</sup>Si. This makes the $\delta$<sup>30</sup>Si of the water much heavier. It doesn't take long for stream water $\delta$<sup>30</sup>Si to reach equilibrium again with the newly forming clay rocks. What does take a lot longer to reach equilibrium though, is Ge/Si ratios. 
 
 Ge acts as a fake-isotope of Si, clays will incorporate Ge into their makeup, but Ge is insensitive to other processes (like plant uptake). Ge/Si ratios are useful because they provide insight to what process is controlling the signature of $\delta$<sup>30</sup>Si in groundwater and stream waters.
