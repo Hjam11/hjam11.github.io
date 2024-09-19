@@ -27,4 +27,22 @@ What are *geochemical tracers*? Simply put, they are tools used to track the wea
 
 While these tracers are useful to get an idea of both flow paths and the breakdown of rocks overtime, they do not show sensitivity to how long it takes for the rock/minerals to break down, or even how long the water has to be in contact with the rock to reach observed concentrations. 
 
-Thankfully, there are a set of tracers that are time sensitive and can provide insight to the breakdown of bedrock and the formation of new rocks (clays). These tracers are silicon isotopes (reffered to as $\delta$<sup>30</sup>Si), germanium, and calcium isotopes (reffered to as $\delta$<sup>44</sup>Ca). Silicon has 3 stable isotopes (or forms), <sup>28</sup>Si, <sup>29</sup>Si, and <sup>30</sup>Si. 
+Thankfully, there are a set of tracers that are time sensitive and can provide insight to the breakdown of bedrock and the formation of new rocks (clays). These tracers are silicon isotopes (reffered to as $\delta$<sup>30</sup>Si), and germanium/silicon ratios. Silicon has 3 stable isotopes (or forms), <sup>28</sup>Si, <sup>29</sup>Si, and <sup>30</sup>Si. When bedrock weathers, it releases these forms of Si that were stuck into the rock into the water. If the $\delta$<sup>30</sup>Si of the water looked exactly like that of the rock, then we know the water had time to reach equlibrium with the rock. However, $\delta$<sup>30</sup>Si is also sensitive to the formation of new rocks. If new clay is forming, it takes up a lot more <sup>28</sup>Si than the heavier <sup>29</sup>Si or <sup>30</sup>Si. This makes the $\delta$<sup>30</sup>Si of the water much heavier. It doesn't take long for stream water $\delta$<sup>30</sup>Si to reach equilibrium again with the newly forming clay rocks. What does take a lot longer to reach equilibrium though, is Ge/Si ratios. 
+
+Ge acts as a fake-isotope of Si, clays will incorporate Ge into their makeup, but Ge is insensitive to other processes (like plant uptake). Ge/Si ratios are useful because they provide insight to what process is controlling the signature of $\delta$<sup>30</sup>Si in groundwater and stream waters.
+
+When apparent groundwater ages and geochemical tracers are combined together, it provides a much deeper insight into the interactions of groundwater and bedrock, which in turn helps to give a deeper understanding of the time frame of which stream water chemistry has evolved before we have sampled it. 
+
+## What has been done so far?
+
+To date (September 2024), about 60ish stream samples and 80ish spring samples have been collected! Sampling had be done in June/July of 2023 and also in the summer of 2024. 
+
+<figure>
+<img src='/images/CurrentWY_Samples.pdf'>
+<figcaption align = "middle"> This plot shows the discharge of Sagehen creek from October 2023, through September 2024. Overlain are all the different samples collected during that time frame
+</figcaption>
+</figure>
+
+The samples collected in 2023 have been analyzed for $\delta$ <sup>30</sup>Si measurements and Ge/Si ratios. So far, early results suggest that groundwaters in Sagehen Creek basin are close to equilibrium with the bedrock, which is very intriguing! 
+
+Future work will include processing the samples collected in 2024 to help paint a better overall picture of the groundwaters in the springs across the basin too.
