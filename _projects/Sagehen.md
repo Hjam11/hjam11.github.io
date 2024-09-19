@@ -28,7 +28,7 @@ What are *geochemical tracers*? Simply put, they are tools used to track the wea
 While these tracers are useful to get an idea of both flow paths and the breakdown of rocks overtime, they do not show sensitivity to how long it takes for the rock/minerals to break down, or even how long the water has to be in contact with the rock to reach observed concentrations. 
 
 <figure>
-<img src='/images/RxnClocks.png'>
+<img src='/images/rxn_clocks.pdf'>
 <figcaption align = "middle"> This figure shows a concenptual overview of groundwater paths, and the time scales of water-rock interactions needed to reach equilibrium. This concept is known as a 'reaction clock', of which weathering tracers are useful in revealing
 </figcaption>
 </figure>
