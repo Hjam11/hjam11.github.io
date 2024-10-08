@@ -1,6 +1,7 @@
 ---
 title: "Rapid response of stream dissolved phosphorus concentrations to wildfire smoke"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-10-04Nature
 excerpt: 'Wildfires can produce large plumes of smoke that are transported across vast distances, altering nutrient cycling of undisturbed watersheds exposed downwind. To date, wildfire smoke influence on stream biogeochemical signatures remains an important knowledge gap...'
 date: 2024-10-04
