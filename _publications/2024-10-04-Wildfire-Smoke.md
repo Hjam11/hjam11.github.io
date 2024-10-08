@@ -6,8 +6,8 @@ permalink: /publication/2024-10-04Nature
 excerpt: 'Wildfires can produce large plumes of smoke that are transported across vast distances, altering nutrient cycling of undisturbed watersheds exposed downwind. To date, wildfire smoke influence on stream biogeochemical signatures remains an important knowledge gap...'
 date: 2024-10-04
 venue: 'Nature Communications Earth and Environment'
-paperurl: '/files/NFHJZG_paper.pdf'
-citation: Fernandez, N.M., Jamison, H.T. & Gold, Z. Rapid response of stream dissolved phosphorus concentrations to wildfire smoke. ,<i>Commun Earth Environ</i> <b>5</b>, 562 (2024). https://doi.org/10.1038/s43247-024-01732-w
+paperurl: 'https://doi.org/10.1038/s43247-024-01732-w'
+citation: Fernandez, N.M., Jamison, H.T. & Gold, Z. Rapid response of stream dissolved phosphorus concentrations to wildfire smoke., <i>Commun Earth Environ</i> <b>5</b>, 562 (2024). 
 ---
 
 Abstract
