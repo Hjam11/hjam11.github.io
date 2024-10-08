@@ -3,7 +3,7 @@ title: "Water Sources for Coastal Forest Trees Identified Through Centrifugation
 collection: publications
 category: conferences
 permalink: /publication/2023-12-15-AGU2
-excerpt: 
+excerpt: ''
 date: 2023-12-15
 venue: 'Fall Meeting 2023 - AGU '
 #paperurl: https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1428232

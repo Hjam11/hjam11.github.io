@@ -3,7 +3,7 @@ title: "What is the Stable Isotope Moisture Record Generated in Soils and Shallo
 collection: publications
 category: conferences
 permalink: /publication/2021-12-17AGU
-excerpt: 
+excerpt: ''
 date: 2021-12-17
 venue: 'Fall Meeting 2021 - AGU'
 #paperurl: https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/898503

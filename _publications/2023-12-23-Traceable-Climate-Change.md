@@ -3,7 +3,7 @@ title: "Traceable Climate Change and its Impact on the Finger Lakes region of Ne
 collection: publications
 category: conferences
 permalink: /publication/2023-12-15-AGU
-excerpt: 
+excerpt: ''
 date: 2023-12-15
 venue: 'Fall Meeting 2023 - AGU '
 #paperurl: https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1431466
