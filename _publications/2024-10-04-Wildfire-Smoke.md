@@ -25,4 +25,4 @@ of dissolved P responses. These findings demonstrate the capacity for wild re sm
 observable changes to stream P chemistry.
 
 ---
-Find paper [here](/files/NFHJZG_paper.pdf)
+[Download Paper](/files/NFHJZG_paper.pdf)
