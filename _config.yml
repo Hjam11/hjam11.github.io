@@ -95,7 +95,7 @@ author:
   avatar           : "pfp.png"
   bio              : "I'm a low temperature geochemist/isotope eco-hydrologist!"
   pronouns         : "He/Him"
-  location         : "Ithaca, NY"
+  location         : #"Ithaca, NY"
   employer         : "Cornell University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=FvucASIAAAAJ&hl=en"
